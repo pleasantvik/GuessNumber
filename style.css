@@ -1,0 +1,12 @@
+body {
+  background-color: orangered;
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+#guess-btn {
+  color: #fff;
+}
+#again {
+  color: #fff;
+}
